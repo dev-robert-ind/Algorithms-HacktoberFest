@@ -1,0 +1,19 @@
+Algorithm to check a student is pass or fail :
+
+Start
+
+Input Marks1, Marks2, Marks3, Marks4
+
+Grade= (Marks1+Marks2+Marks3+Marks4)/4
+
+If (Grade<50) then
+
+Print “Fail”
+
+Else
+
+Print “Pass”
+
+End if
+
+Stop
